@@ -1,7 +1,7 @@
 # Electricity Consumption Forecasting
 
 ## Live Application
-🌍 **[Insert Your Streamlit Public URL Here]**
+🌍 **(https://electricity-forecaster.streamlit.app/)**
 
 ## Overview
 This repository contains an end-to-end Machine Learning pipeline that predicts the next hour's household electricity consumption. 
